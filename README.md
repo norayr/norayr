@@ -43,6 +43,7 @@
 ### 🛠️ Oberon Tools
 - 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
 - 🏷️ [Etiquette - Tool to Tag Files](https://github.com/norayr/etiquette)
+- 🐚 [Manush](https://github.com/illuria/manush) - secure menu shell for Illuria
 - 🚂 [Diaspora to Hugo](https://github.com/norayr/diaspora2hugo)
 - 🚄 [Socialhome to Hugo](https://github.com/norayr/socialhome2hugo)
 - 🏗️ [Oberon Forking Server](https://github.com/norayr/test_server)
@@ -96,6 +97,10 @@
 - 🏗️ [Gentoo Overlay](https://github.com/norayr/norayr-overlay)
 - 📦 [epkg - DPKG-like Tool](https://github.com/norayr/epkg)
 - 🔄 [ept-get - APT-like Tool for Recursive Removal](https://github.com/norayr/ept-get)
+
+---
+
+some more text [here](appendix.md)
 
 ---
 
