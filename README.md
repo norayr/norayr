@@ -33,6 +33,8 @@
 - 📂 [File System Extended Attributes (Linux Wrapper)](https://github.com/norayr/xattr)
 - 🏗️ [Unix File System Routines](https://github.com/norayr/unixFileSystem)
 - 🗄️ [PostgreSQL Oberon Wrapper](https://github.com/norayr/postgres)
+- 🏡 [Diaspora social network db abstraction](https://github.com/norayr/diaspora)
+- 🚉 [Socialhome social network db abstraction](https://github.com/norayr/socialhome)
 - 🏭 [Unix Pipes Library for Oberon](https://github.com/norayr/pipes)
 - 🔄 [FIFO Library for Oberon](https://github.com/norayr/fifo)
 - 🈴 [Armscii to UTF-8 Library](https://github.com/norayr/armscii)
@@ -41,6 +43,8 @@
 ### 🛠️ Oberon Tools
 - 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
 - 🏷️ [Etiquette - Tool to Tag Files](https://github.com/norayr/etiquette)
+- 🚂 [Diaspora to Hugo](https://github.com/norayr/diaspora2hugo)
+- 🚄 [Socialhome to Hugo](https://github.com/norayr/socialhome2hugo)
 - 🏗️ [Oberon Forking Server](https://github.com/norayr/test_server)
 - 📖 [Web Dictionary to StarDict Format Converter](https://github.com/norayr/enacademic_to_stardict)
 - 📖 [Converter for Baratian Dictionary](https://github.com/norayr/English-Armenian-Baratian-dictionary)
