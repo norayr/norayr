@@ -1,101 +1,102 @@
 # 👋 Hey there!
 
-## 🔗 Some Spotlight Projects  
+## 🔗 Some Spotlight Projects
 
-### 🏛️ Oberon Compiler & Package Manager  
-- 📌 [Vishap Oberon Compiler](https://github.com/vishapoberon/compiler)  
-- 📦 [VIPack - Oberon Package Manager](https://github.com/vishapoberon/vipack)  
-- 🏚️ [Old Unmaintained Oberon-07 Compiler](https://github.com/norayr/o7c)  
+### 🏛️ Oberon Compiler & Package Manager
+- 📌 [Vishap Oberon Compiler](https://github.com/vishapoberon/compiler)
+- 📦 [VIPack - Oberon Package Manager](https://github.com/vishapoberon/vipack)
+- 🏚️ [Old Unmaintained Oberon-07 Compiler](https://github.com/norayr/o7c)
 
-### 🖥️ Pascal Maemo/Android/Desktop Applications  
-- 🎨 [Chromatika - Image Colors Beautifier](https://github.com/chromatika/chromatika)  
-- 📷 [Focal Length Calculator](https://github.com/norayr/focalLengthCalculator)  
-- 🌞 [Photographic Light Meter](https://github.com/norayr/photolightmeter)  
-- 📚 [Comics Daily](https://github.com/norayr/comics-daily)  
-- 📡 [Meridian23](https://github.com/norayr/meridian23)  
-  - Uses [📩 UXMPP](https://github.com/norayr/uxmpp) - a patch of Devi's Pascal XMPP library with added methods, avatars, and Linux support.  
-- ☀️ [SolarInfoBank Client](https://github.com/norayr/solarinfobank)  
+### 🖥️ Pascal Maemo/Android/Desktop Applications
+- 🎨 [Chromatika - Image Colors Beautifier](https://github.com/chromatika/chromatika)
+- 📷 [Focal Length Calculator](https://github.com/norayr/focalLengthCalculator)
+- 🌞 [Photographic Light Meter](https://github.com/norayr/photolightmeter)
+- 📚 [Comics Daily](https://github.com/norayr/comics-daily)
+- 📡 [Meridian23](https://github.com/norayr/meridian23)
+  - Uses [📩 UXMPP](https://github.com/norayr/uxmpp) - a patch of Devi's Pascal XMPP library with added methods, avatars, and Linux support.
+- ☀️ [SolarInfoBank Client](https://github.com/norayr/solarinfobank)
 
-### 📚 Oberon Libraries  
-- 🏗️ [Program Arguments Library](https://github.com/norayr/opts)  
-- 🔗 [Linked List and String List](https://github.com/norayr/lists)  
-- 🌐 [Internet Module: Unix Sockets Wrapper](https://github.com/norayr/Internet)  
-- 💬 [IRC Library](https://github.com/norayr/irc)  
-  - Used by:  
-  - 🌍 [HTTP Client](https://github.com/norayr/http)  
-  - 🔒 [MbedTLS Wrapper & HTTPS Client](https://github.com/norayr/mbedtls) (inherits from HTTP Client above)  
-- 🔡 [String Utilities](https://github.com/norayr/strutils)  
-- 🏴‍☠️ [Base64 Encoding Library](https://github.com/norayr/base64)  
-- 🔑 [Hash Map Implementation](https://github.com/norayr/HashMap)  
-- 🔐 [DES Library (Ported from Oberon OS)](https://github.com/norayr/des)  
-- 🛠️ [Debugging & Logging Module](https://github.com/norayr/dbg)  
-- 📂 [File System Extended Attributes (Linux Wrapper)](https://github.com/norayr/xattr)  
-- 🏗️ [Unix File System Routines](https://github.com/norayr/unixFileSystem)  
-- 🗄️ [PostgreSQL Oberon Wrapper](https://github.com/norayr/postgres)  
-- 🏭 [Unix Pipes Library for Oberon](https://github.com/norayr/pipes)  
-- 🔄 [FIFO Library for Oberon](https://github.com/norayr/fifo)  
-- 🈴 [Armscii to UTF-8 Library](https://github.com/norayr/armscii)  
-- 🔄 [Example: C Uses Oberon Code](https://github.com/norayr/c_uses_oberon)  
+### 📚 Oberon Libraries
+- 🏗️ [Program Arguments Library](https://github.com/norayr/opts)
+- 🔗 [Linked List and String List](https://github.com/norayr/lists)
+- 🌐 [Internet Module: Unix Sockets Wrapper](https://github.com/norayr/Internet)
+- 💬 [IRC Library](https://github.com/norayr/irc)
+  - Used by:
+  - 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
+- 🌍 [HTTP Client](https://github.com/norayr/http)
+   - 🔒 [MbedTLS Wrapper & HTTPS Client](https://github.com/norayr/mbedtls) (inherits from HTTP Client above)
+- 🔡 [String Utilities](https://github.com/norayr/strutils)
+- 🏴‍☠️ [Base64 Encoding Library](https://github.com/norayr/base64)
+- 🔑 [Hash Map Implementation](https://github.com/norayr/HashMap)
+- 🔐 [DES Library (Ported from Oberon OS)](https://github.com/norayr/des)
+- 🛠️ [Debugging & Logging Module](https://github.com/norayr/dbg)
+- 📂 [File System Extended Attributes (Linux Wrapper)](https://github.com/norayr/xattr)
+- 🏗️ [Unix File System Routines](https://github.com/norayr/unixFileSystem)
+- 🗄️ [PostgreSQL Oberon Wrapper](https://github.com/norayr/postgres)
+- 🏭 [Unix Pipes Library for Oberon](https://github.com/norayr/pipes)
+- 🔄 [FIFO Library for Oberon](https://github.com/norayr/fifo)
+- 🈴 [Armscii to UTF-8 Library](https://github.com/norayr/armscii)
+- 🔄 [Example: C Uses Oberon Code](https://github.com/norayr/c_uses_oberon)
 
-### 🛠️ Oberon Tools  
-- 🤖 [IRC Bot](https://github.com/norayr/irc_bot)  
-- 🏷️ [Etiquette - Tool to Tag Files](https://github.com/norayr/etiquette)  
-- 🏗️ [Oberon Forking Server](https://github.com/norayr/test_server)  
-- 📖 [Web Dictionary to StarDict Format Converter](https://github.com/norayr/enacademic_to_stardict)  
-- 📖 [Converter for Baratian Dictionary](https://github.com/norayr/English-Armenian-Baratian-dictionary)  
+### 🛠️ Oberon Tools
+- 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
+- 🏷️ [Etiquette - Tool to Tag Files](https://github.com/norayr/etiquette)
+- 🏗️ [Oberon Forking Server](https://github.com/norayr/test_server)
+- 📖 [Web Dictionary to StarDict Format Converter](https://github.com/norayr/enacademic_to_stardict)
+- 📖 [Converter for Baratian Dictionary](https://github.com/norayr/English-Armenian-Baratian-dictionary)
 
-### 🖥️ WindowMaker  
-- 🏗️ [General Applet Library Revived](https://github.com/norayr/gai)  
-- 🐟 [Sherman's Aquarium DockApp Revived](https://github.com/norayr/shermans_aquarium)  
-- 📜 [WindowMaker Sticky Notes (Improved)](https://github.com/norayr/wmstickynotes)  
-  - Hide/unhide notes at their workspaces and screen locations  
-- 🎵 [WMPlayer - Plays Deep House Radio](https://github.com/norayr/wmplayer)  
+### 🖥️ WindowMaker
+- 🏗️ [General Applet Library Revived](https://github.com/norayr/gai)
+- 🐟 [Sherman's Aquarium DockApp Revived](https://github.com/norayr/shermans_aquarium)
+- 📜 [WindowMaker Sticky Notes (Improved)](https://github.com/norayr/wmstickynotes)
+  - Hide/unhide notes at their workspaces and screen locations
+- 🎵 [WMPlayer - Plays Deep House Radio](https://github.com/norayr/wmplayer)
 
-### 🔧 Patches  
-- 📡 [mDNS for Delphi (Linux Implementation)](https://github.com/norayr/mdns4Delphi)  
-- 📽️ [Screen Recorder in Lazarus](https://github.com/norayr/kscreenrec)  
-- 📼 [TapTap - Commandline Tool for Oric Tap Files](https://github.com/norayr/taptap)  
+### 🔧 Patches
+- 📡 [mDNS for Delphi (Linux Implementation)](https://github.com/norayr/mdns4Delphi)
+- 📽️ [Screen Recorder in Lazarus](https://github.com/norayr/kscreenrec)
+- 📼 [TapTap - Commandline Tool for Oric Tap Files](https://github.com/norayr/taptap)
 
-### 📝 Scripts  
-- 🎙️ [Podcast XML Generator](https://github.com/norayr/podcast_xml_generator)  
-- ✅ [TODO Script](https://github.com/norayr/todo_script)  
-- 📸 [Film Photos Tagger - Tags Camera, ISO, Location, etc.](https://github.com/norayr/film-tagger)  
+### 📝 Scripts
+- 🎙️ [Podcast XML Generator](https://github.com/norayr/podcast_xml_generator)
+- ✅ [TODO Script](https://github.com/norayr/todo_script)
+- 📸 [Film Photos Tagger - Tags Camera, ISO, Location, etc.](https://github.com/norayr/film-tagger)
 
-### 📖 Dictionaries  
-- 📖 [ArmDicto Dictionary - Liberated & Cross-Platform](https://github.com/norayr/freearmdicto)  
-- 📖 [Baratian Dictionary (PDF to Free Format)](https://github.com/norayr/baratian_dictionary)  
-- 📖 [English-Armenian Tech Terms](https://github.com/norayr/noch-armenian-dictionary)  
-- 🌀 [English to Toki-Pona](https://github.com/norayr/english_to_toki-pona)  
-- 🔄 [Toki-Pona to English](https://github.com/norayr/toki_pona_to_english)  
-- 🌍 [English-Georgian Dictionary](https://github.com/norayr/english-georgian)  
-- 🏛️ [Urartian to English Dictionary](https://github.com/norayr/urartian-english)  
+### 📖 Dictionaries
+- 📖 [ArmDicto Dictionary - Liberated & Cross-Platform](https://github.com/norayr/freearmdicto)
+- 📖 [Baratian Dictionary (PDF to Free Format)](https://github.com/norayr/baratian_dictionary)
+- 📖 [English-Armenian Tech Terms](https://github.com/norayr/noch-armenian-dictionary)
+- 🌀 [English to Toki-Pona](https://github.com/norayr/english_to_toki-pona)
+- 🔄 [Toki-Pona to English](https://github.com/norayr/toki_pona_to_english)
+- 🌍 [English-Georgian Dictionary](https://github.com/norayr/english-georgian)
+- 🏛️ [Urartian to English Dictionary](https://github.com/norayr/urartian-english)
 
-### 🏗️ Maemo Packaging & Revivals  
-- 🌍 [Lagrange Gemini Browser](https://github.com/norayr/lagrange)  
-- 🔄 Revived programs for Maemo Fremantle, now working on Maemo Leste:  
-  - 📋 [EasyList](https://github.com/norayr/easylist)  
-  - 📖 [mStarDict](https://github.com/norayr/mstardict)  
-  - 🎨 [Live Wallpaper](https://github.com/norayr/live-wallpaper)  
-  - 🐟 [Sherman's Aquarium for Maemo Live Wallpaper](https://github.com/norayr/shermans-aquarium-maemo)  
-  - 📝 [Leafpad Hildon Application](https://github.com/norayr/leafpad)  
-  - ⚖️ [MaeFat - Weight Tracking App](https://github.com/norayr/maefat)  
-  - 🔢 [9x9 Sudoku](https://github.com/norayr/9x9-sudoku)  
+### 🏗️ Maemo Packaging & Revivals
+- 🌍 [Lagrange Gemini Browser](https://github.com/norayr/lagrange)
+- 🔄 Revived programs for Maemo Fremantle, now working on Maemo Leste:
+  - 📋 [EasyList](https://github.com/norayr/easylist)
+  - 📖 [mStarDict](https://github.com/norayr/mstardict)
+  - 🎨 [Live Wallpaper](https://github.com/norayr/live-wallpaper)
+  - 🐟 [Sherman's Aquarium for Maemo Live Wallpaper](https://github.com/norayr/shermans-aquarium-maemo)
+  - 📝 [Leafpad Hildon Application](https://github.com/norayr/leafpad)
+  - ⚖️ [MaeFat - Weight Tracking App](https://github.com/norayr/maefat)
+  - 🔢 [9x9 Sudoku](https://github.com/norayr/9x9-sudoku)
 
-### 🎹 Keyboard Layouts  
-- ⌨️ [Hildon Input Method Plugins](https://github.com/norayr/hildon-input-method-plugins)  
-- ⌨️ [Armenian, Dvorak Layouts for SVKBD](https://github.com/norayr/svkbd)  
-- ⌨️ [Armenian for Multiling O](https://github.com/norayr/armenian_multiling_o)  
-- ⌨️ [Hardware Keyboard Layouts for Sailfish](https://github.com/norayr/sailfish_hardware_keyboard_layouts)  
+### 🎹 Keyboard Layouts
+- ⌨️ [Hildon Input Method Plugins](https://github.com/norayr/hildon-input-method-plugins)
+- ⌨️ [Armenian, Dvorak Layouts for SVKBD](https://github.com/norayr/svkbd)
+- ⌨️ [Armenian for Multiling O](https://github.com/norayr/armenian_multiling_o)
+- ⌨️ [Hardware Keyboard Layouts for Sailfish](https://github.com/norayr/sailfish_hardware_keyboard_layouts)
 
-### 🏗️ Gentoo Overlay & Utilities  
-- 🏗️ [Gentoo Overlay](https://github.com/norayr/norayr-overlay)  
-- 📦 [epkg - DPKG-like Tool](https://github.com/norayr/epkg)  
-- 🔄 [ept-get - APT-like Tool for Recursive Removal](https://github.com/norayr/ept-get)  
+### 🏗️ Gentoo Overlay & Utilities
+- 🏗️ [Gentoo Overlay](https://github.com/norayr/norayr-overlay)
+- 📦 [epkg - DPKG-like Tool](https://github.com/norayr/epkg)
+- 🔄 [ept-get - APT-like Tool for Recursive Removal](https://github.com/norayr/ept-get)
 
 ---
 
-## 🌐 Connect with Me  
-- 📧 Email: **mygithubusername 🐀 🐋 am**  
-- ♊︎ **gemini://norayr.am**  
-- 🌍 **[Website](https://norayr.am)**  
-- 📝 **[Weblog](https://norayr.am/weblog)**  
+## 🌐 Connect with Me
+- 📧 Email: **mygithubusername 🐀 🐋 am**
+- ♊︎ **gemini://norayr.am**
+- 🌍 **[Website](https://norayr.am)**
+- 📝 **[Weblog](https://norayr.am/weblog)**
