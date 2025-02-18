@@ -53,6 +53,7 @@
 ### 🖥️ WindowMaker
 - 🏗️ [General Applet Library Revived](https://github.com/norayr/gai)
 - 🐟 [Sherman's Aquarium DockApp Revived](https://github.com/norayr/shermans_aquarium)
+  - this is how it [looks](https://toobnix.org/w/fCvuWkr7Ciny8FqLsBmc9t).
 - 📜 [WindowMaker Sticky Notes (Improved)](https://github.com/norayr/wmstickynotes)
   - Hide/unhide notes at their workspaces and screen locations
 - 🎵 [WMPlayer - Plays Deep House Radio](https://github.com/norayr/wmplayer)
