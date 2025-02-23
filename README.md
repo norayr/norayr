@@ -37,6 +37,7 @@
 - 🚉 [Socialhome social network db abstraction](https://github.com/norayr/socialhome)
 - 🏭 [Unix Pipes Library for Oberon](https://github.com/norayr/pipes)
 - 🔄 [FIFO Library for Oberon](https://github.com/norayr/fifo)
+- ⌚ [Unix Time Library for Oberon](https://github.com/norayr/fifo)
 - 🈴 [Armscii to UTF-8 Library](https://github.com/norayr/armscii)
 - 🔄 [Example: C Uses Oberon Code](https://github.com/norayr/c_uses_oberon)
 
@@ -47,6 +48,7 @@
 - 🚂 [Diaspora to Hugo](https://github.com/norayr/diaspora2hugo)
 - 🚄 [Socialhome to Hugo](https://github.com/norayr/socialhome2hugo)
 - 🏗️ [Oberon Forking Server](https://github.com/norayr/test_server)
+- 📖 [ArmDicto reverse engineering](https://github.com/norayr/armdicto-hack)
 - 📖 [Web Dictionary to StarDict Format Converter](https://github.com/norayr/enacademic_to_stardict)
 - 📖 [Converter for Baratian Dictionary](https://github.com/norayr/English-Armenian-Baratian-dictionary)
 
