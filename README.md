@@ -37,7 +37,7 @@
 - 🚉 [Socialhome social network db abstraction](https://github.com/norayr/socialhome)
 - 🏭 [Unix Pipes Library for Oberon](https://github.com/norayr/pipes)
 - 🔄 [FIFO Library for Oberon](https://github.com/norayr/fifo)
-- ⌚ [Unix Time Library for Oberon](https://github.com/norayr/fifo)
+- ⌚ [Unix Time Wrapper for Oberon](https://github.com/norayr/fifo)
 - 🈴 [Armscii to UTF-8 Library](https://github.com/norayr/armscii)
 - 🔄 [Example: C Uses Oberon Code](https://github.com/norayr/c_uses_oberon)
 
