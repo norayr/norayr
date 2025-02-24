@@ -19,7 +19,7 @@
 ### 📚 Oberon Libraries
 - 🏗️ [Program Arguments Library](https://github.com/norayr/opts)
 - 🔗 [Linked List and String List](https://github.com/norayr/lists)
-- 🌐 [Internet Module: Unix Sockets Wrapper](https://github.com/norayr/Internet)
+- 🌐 [Internet Module: Unix Sockets Wrapper and Client/Server example](https://github.com/norayr/Internet)
 - 💬 [IRC Library](https://github.com/norayr/irc)
   - Used by:
   - 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
@@ -84,6 +84,7 @@
 - 🔄 Revived programs for Maemo Fremantle, now working on Maemo Leste:
   - 📋 [EasyList](https://github.com/norayr/easylist)
   - 📖 [mStarDict](https://github.com/norayr/mstardict)
+  - 🇨 [mSid](https://github.com/norayr/msid)
   - 🎨 [Live Wallpaper](https://github.com/norayr/live-wallpaper)
   - 🐟 [Sherman's Aquarium for Maemo Live Wallpaper](https://github.com/norayr/shermans-aquarium-maemo)
   - 📝 [Leafpad Hildon Application](https://github.com/norayr/leafpad)
