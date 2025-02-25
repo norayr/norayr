@@ -61,7 +61,8 @@
 - 🎵 [WMPlayer - Plays Deep House Radio](https://github.com/norayr/wmplayer)
 
 ### 🔧 Patches
-- 🐍 [python4delphi (Linux/Lazarus port)](https://github.com/norayr/python4delphi)
+- 🐍 [python4delphi (Linux/Lazarus port)](https://github.com/pyscripter/python4delphi/pull/413)
+- 💬 [uxmpp (Linux/Lazarus port)](https://github.com/devi/uxmpp/pull/2)
 - 📡 [mDNS for Delphi (Linux Implementation)](https://github.com/norayr/mdns4Delphi)
 - 📽️ [Screen Recorder in Lazarus](https://github.com/norayr/kscreenrec)
 - 📼 [TapTap - Commandline Tool for Oric Tap Files](https://github.com/norayr/taptap)
