@@ -97,6 +97,7 @@
 - ⌨️ [Hildon Input Method Plugins](https://github.com/maemo-leste/hildon-input-method-plugins/commit/4a7c02fcc47af179a30f3923c9245bea417cad5f)
 - ⌨️ [Armenian, Dvorak Layouts for SVKBD](https://github.com/norayr/svkbd)
 - ⌨️ [Armenian for Multiling O](https://github.com/norayr/armenian_multiling_o)
+- ⌨️ [OnScreen Keyboard Layouts for Sailfish](https://github.com/norayr/sailfish-armenian-layout)
 - ⌨️ [Hardware Keyboard Layouts for Sailfish](https://github.com/norayr/sailfish_hardware_keyboard_layouts)
 
 ### 🏗️ Gentoo Overlay & Utilities
