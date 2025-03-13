@@ -9,6 +9,7 @@
 
 ### 🖥️ Pascal Maemo/Android/Desktop Applications
 - 🎨 [Chromatika - Image Colors Beautifier](https://github.com/chromatika/chromatika)
+- 🐌 [heliko](https://github.com/norayr/heliko) - unix shell helper, inspired of oberon and acme.
 - 📷 [Focal Length Calculator](https://github.com/norayr/focalLengthCalculator)
 - 🌞 [Photographic Light Meter](https://github.com/norayr/photolightmeter)
 - 📚 [Comics Daily](https://github.com/norayr/comics-daily)
