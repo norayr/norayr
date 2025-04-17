@@ -44,6 +44,7 @@
 
 ### 🛠️ Oberon Tools
 - 🚇 [XOR VPN in Oberon](https://github.com/norayr/xoxovpn)
+- ⌚🚇 [watchcat](https://github.com/norayr/)
 - 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
 - 🏷️ [Etiquette - Tool to Tag Files](https://github.com/norayr/etiquette)
 - 🐚 [Manush](https://github.com/illuria/manush) - secure menu shell for Illuria
