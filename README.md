@@ -76,8 +76,8 @@
 - ✅ [TODO Script](https://github.com/norayr/todo_script)
 - 📸 [Film Photos Tagger - Tags Camera, ISO, Location, etc.](https://github.com/norayr/film-tagger)
 
-### 💬Prosody modules
-- 📋[muc jid logger](https://github.com/norayr/mod_muc_jid_logger)
+### 💬 Prosody modules
+- 📋 [muc jid logger](https://github.com/norayr/mod_muc_jid_logger)
 
 ### 📖 Dictionaries
 - 📖 [ArmDicto Dictionary - Liberated & Cross-Platform](https://github.com/norayr/freearmdicto)
