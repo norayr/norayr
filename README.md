@@ -22,6 +22,7 @@
 - 🔗 [Linked List and String List](https://github.com/norayr/lists)
 - 〰️ [Pseudographics module](https://github.com/norayr/pseudographics)
 - 🌐 [Internet Module: Unix Sockets Wrapper and Client/Server example](https://github.com/norayr/Internet)
+- 🉑 [UTF-8 Library](https://github.com/norayr/utf8)
 - 💬 [IRC Library](https://github.com/norayr/irc)
   - Used by:
   - 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
