@@ -23,6 +23,7 @@
 - 〰️ [Pseudographics module](https://github.com/norayr/pseudographics)
 - 🌐 [Internet Module: Unix Sockets Wrapper and Client/Server example](https://github.com/norayr/Internet)
 - 🉑 [UTF-8 Library](https://github.com/norayr/utf8)
+- 👹 [Maxwell's daemon](https://github.com/norayr/maxwelld) - observer pattern
 - 💬 [IRC Library](https://github.com/norayr/irc)
   - Used by:
   - 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
