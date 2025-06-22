@@ -19,6 +19,7 @@
 
 ### 📚 Oberon Libraries
 - 🏗️ [Program Arguments Library](https://github.com/norayr/opts)
+- 📝 [Bjorn Dijkstra strings](https://github.com/norayr/bdStrings)
 - 🔗 [Linked List and String List](https://github.com/norayr/lists)
 - 〰️ [Pseudographics module](https://github.com/norayr/pseudographics)
 - 🌐 [Internet Module: Unix Sockets Wrapper and Client/Server example](https://github.com/norayr/Internet)
