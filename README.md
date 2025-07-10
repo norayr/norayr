@@ -17,6 +17,20 @@
   - Uses [📩 UXMPP](https://github.com/norayr/uxmpp) - a patch of Devi's Pascal XMPP library with added methods, avatars, and Linux support.
 - ☀️ [SolarInfoBank Client](https://github.com/norayr/solarinfobank)
 
+### 🛠️ Oberon Tools
+- 🚇 [XOR VPN in Oberon](https://github.com/norayr/xoxovpn)
+- ⌚ [watchcat](https://github.com/norayr/watchcat)
+- 📜 [oarc](https://github.com/norayr/oarc) Oberon S3 .Arc files archiver.
+- 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
+- 🏷️ [Etiquette - Tool to Tag Files](https://github.com/norayr/etiquette)
+- 🐚 [Manush](https://github.com/illuria/manush) - secure menu shell for Illuria
+- 🚂 [Diaspora to Hugo](https://github.com/norayr/diaspora2hugo)
+- 🚄 [Socialhome to Hugo](https://github.com/norayr/socialhome2hugo)
+- 🏗️ [Oberon Forking Server](https://github.com/norayr/test_server)
+- 📖 [ArmDicto reverse engineering](https://github.com/norayr/armdicto-hack)
+- 📖 [Web Dictionary to StarDict Format Converter](https://github.com/norayr/enacademic_to_stardict)
+- 📖 [Converter for Baratian Dictionary](https://github.com/norayr/English-Armenian-Baratian-dictionary)
+
 ### 📚 Oberon Libraries
 - 🏗️ [Program Arguments Library](https://github.com/norayr/opts)
 - 📝 [Bjorn Dijkstra strings](https://github.com/norayr/bdStrings)
@@ -45,19 +59,6 @@
 - ⌚ [Unix Time Wrapper for Oberon](https://github.com/norayr/fifo)
 - 🈴 [Armscii to UTF-8 Library](https://github.com/norayr/armscii)
 - 🔄 [Example: C Uses Oberon Code](https://github.com/norayr/c_uses_oberon)
-
-### 🛠️ Oberon Tools
-- 🚇 [XOR VPN in Oberon](https://github.com/norayr/xoxovpn)
-- ⌚ [watchcat](https://github.com/norayr/watchcat)
-- 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
-- 🏷️ [Etiquette - Tool to Tag Files](https://github.com/norayr/etiquette)
-- 🐚 [Manush](https://github.com/illuria/manush) - secure menu shell for Illuria
-- 🚂 [Diaspora to Hugo](https://github.com/norayr/diaspora2hugo)
-- 🚄 [Socialhome to Hugo](https://github.com/norayr/socialhome2hugo)
-- 🏗️ [Oberon Forking Server](https://github.com/norayr/test_server)
-- 📖 [ArmDicto reverse engineering](https://github.com/norayr/armdicto-hack)
-- 📖 [Web Dictionary to StarDict Format Converter](https://github.com/norayr/enacademic_to_stardict)
-- 📖 [Converter for Baratian Dictionary](https://github.com/norayr/English-Armenian-Baratian-dictionary)
 
 ### 🖥️ WindowMaker
 - 🏗️ [General Applet Library Revived](https://github.com/norayr/gai)
