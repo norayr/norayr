@@ -48,7 +48,7 @@
 - 🏴‍☠️ [Base64 Encoding Library](https://github.com/norayr/base64)
 - 🔑 [Hash Map Implementation](https://github.com/norayr/HashMap)
 - 🔐 [DES Library (Ported from Oberon OS)](https://github.com/norayr/des)
-- 🔐 [RSA Library)](https://github.com/norayr/rsa)
+- 🔐 [RSA Library](https://github.com/norayr/rsa)
 - 🛠️ [Debugging & Logging Module](https://github.com/norayr/dbg)
 - 📂 [File System Extended Attributes (Linux Wrapper)](https://github.com/norayr/xattr)
 - 🏗️ [Unix File System Routines](https://github.com/norayr/unixFileSystem)
