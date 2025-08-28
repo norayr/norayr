@@ -71,6 +71,7 @@
 
 ### 🔧 Patches
 - ♊︎ [lagrange gemini client](github.com/skyjake/lagrange/pull/739) — remember and restore window workspaces in X11.
+- 🐍 [python4delphi (Linux/Lazarus port)](https://github.com/pyscripter/python4delphi/pull/413)
 - 💬 [uxmpp (Linux/Lazarus port)](https://github.com/devi/uxmpp/pull/2)
 - 📡 [mDNS for Delphi (Linux Implementation)](https://github.com/norayr/mdns4Delphi)
 - 📽️ [Screen Recorder in Lazarus](https://github.com/norayr/kscreenrec)
