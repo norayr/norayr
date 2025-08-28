@@ -70,7 +70,7 @@
 - 🎵 [WMPlayer - Plays Deep House Radio](https://github.com/norayr/wmplayer)
 
 ### 🔧 Patches
-- 🐍 [python4delphi (Linux/Lazarus port)](https://github.com/pyscripter/python4delphi/pull/413)
+- ♊︎ [lagrange gemini client](github.com/skyjake/lagrange/pull/739) — remember and restore window workspaces in X11.
 - 💬 [uxmpp (Linux/Lazarus port)](https://github.com/devi/uxmpp/pull/2)
 - 📡 [mDNS for Delphi (Linux Implementation)](https://github.com/norayr/mdns4Delphi)
 - 📽️ [Screen Recorder in Lazarus](https://github.com/norayr/kscreenrec)
