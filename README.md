@@ -15,6 +15,7 @@
 - 📚 [Comics Daily](https://github.com/norayr/comics-daily)
 - 📡 [Meridian23](https://github.com/norayr/meridian23)
   - Uses [📩 UXMPP](https://github.com/norayr/uxmpp) - a patch of Devi's Pascal XMPP library with added methods, avatars, and Linux support.
+- 👋 [Yggdrasil-Bonjour Bridge](https://github.com/norayr/ybb)
 - ☀️ [SolarInfoBank Client](https://github.com/norayr/solarinfobank)
 
 ### 🛠️ Oberon Tools
