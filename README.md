@@ -7,7 +7,12 @@
 - 📦 [VIPack - Oberon Package Manager](https://github.com/vishapoberon/vipack)
 - 🏚️ [Old Unmaintained Oberon-07 Compiler](https://github.com/norayr/o7c)
 
+- 🪾 Yggdrasil related
+- 👋 [Barev purple plugin](https://github.com/norayr/barev-purple) Barev XMPP flavoured P2P protocol purple plugin.
+- 👋 [Barev Pascal implementation](https://github.com/norayr/barev-pascal) Barev XMPP flavoured P2P protocol Pascal units and CLI program.
+
 ### 🖥️ Pascal Maemo/Android/Desktop Applications
+- 📜 [tomar](https://github.com/norayr/tomar) simple rss reader in pascal.
 - 🎨 [Chromatika - Image Colors Beautifier](https://github.com/chromatika/chromatika)
 - 🐌 [heliko](https://github.com/norayr/heliko) - unix shell helper, inspired of oberon and acme.
 - 📷 [Focal Length Calculator](https://github.com/norayr/focalLengthCalculator)
