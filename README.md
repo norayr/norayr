@@ -10,8 +10,9 @@
 - 🪾 Yggdrasil related
 - 👋 [Barev purple plugin](https://github.com/norayr/barev-purple) Barev XMPP flavoured P2P protocol purple plugin.
 - 👋 [Barev Pascal implementation](https://github.com/norayr/barev-pascal) Barev XMPP flavoured P2P protocol Pascal units and CLI program.
+- 👋 [Yggdrasil-Bonjour Bridge](https://github.com/norayr/ybb) - better to use barev instead of this.
 
-### 🖥️ Pascal Maemo/Android/Desktop Applications
+### 🖥️ Pascal Maemo/Android/Desktop/cli Applications
 - 📜 [tomar](https://github.com/norayr/tomar) simple rss reader in pascal.
 - 🎨 [Chromatika - Image Colors Beautifier](https://github.com/chromatika/chromatika)
 - 🐌 [heliko](https://github.com/norayr/heliko) - unix shell helper, inspired of oberon and acme.
@@ -20,8 +21,8 @@
 - 📚 [Comics Daily](https://github.com/norayr/comics-daily)
 - 📡 [Meridian23](https://github.com/norayr/meridian23)
   - Uses [📩 UXMPP](https://github.com/norayr/uxmpp) - a patch of Devi's Pascal XMPP library with added methods, avatars, and Linux support.
-- 👋 [Yggdrasil-Bonjour Bridge](https://github.com/norayr/ybb)
 - ☀️ [SolarInfoBank Client](https://github.com/norayr/solarinfobank)
+- 🥥 [CoCo/R FreePascal adaptation](https://github.com/norayr/cocor_pascal)
 
 ### 🛠️ Oberon Tools
 - 🚇 [XOR VPN in Oberon](https://github.com/norayr/xoxovpn)
@@ -29,6 +30,7 @@
 - 📜 [oarc](https://github.com/norayr/oarc) Oberon S3 .Arc files archiver.
 - 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
 - 🏷️ [Etiquette - Tool to Tag Files](https://github.com/norayr/etiquette)
+- 🥥 [CoCo/R voc adaptations](https://github.com/norayr/cocor_voc)
 - 🐚 [Manush](https://github.com/illuria/manush) - secure menu shell for Illuria
 - 🚂 [Diaspora to Hugo](https://github.com/norayr/diaspora2hugo)
 - 🚄 [Socialhome to Hugo](https://github.com/norayr/socialhome2hugo)
