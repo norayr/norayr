@@ -57,6 +57,7 @@
 - 🔑 [Hash Map Implementation](https://github.com/norayr/HashMap)
 - 🔐 [DES Library (Ported from Oberon OS)](https://github.com/norayr/des)
 - 🔐 [RSA Library](https://github.com/norayr/rsa)
+- 🗂️ [TOML Library](https://github.com/norayr/toml)
 - 🛠️ [Debugging & Logging Module](https://github.com/norayr/dbg)
 - 📂 [File System Extended Attributes (Linux Wrapper)](https://github.com/norayr/xattr)
 - 🏗️ [Unix File System Routines](https://github.com/norayr/unixFileSystem)
