@@ -5,6 +5,7 @@
 ### 🏛️ Oberon Compiler & Package Manager
 - 📌 [Vishap Oberon Compiler](https://github.com/vishapoberon/compiler)
 - 📦 [VIPack - Oberon Package Manager](https://github.com/vishapoberon/vipack)
+- 🌊 [Ulmo - Ulm's Oberon System revival](https://github.com/norayr/ulmo)
 - 🏚️ [Old Unmaintained Oberon-07 Compiler](https://github.com/norayr/o7c)
 
 - 🪾 Yggdrasil related
