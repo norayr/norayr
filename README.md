@@ -12,7 +12,8 @@
 - 👋 [Barev purple plugin](https://github.com/norayr/barev-purple) Barev XMPP flavoured P2P protocol purple plugin.
 - 👋 [Barev Pascal implementation](https://github.com/norayr/barev-pascal) Barev XMPP flavoured P2P protocol Pascal units and CLI program.
 - 👋 [Yggdrasil-Bonjour Bridge](https://github.com/norayr/ybb) - better to use barev instead of this.
-- 🏵️ [rn name server](https://github.com/norayr/rn) - for [v6.alt](https://modules.prosody.im/mod_s2s_v6mesh.html) domains.
+- 🏵️ [rn (reto nomo?) name server](https://github.com/norayr/rn) - for [v6.alt](https://modules.prosody.im/mod_s2s_v6mesh.html) domains.
+
 ### 🖥️ Pascal Maemo/Android/Desktop/cli Applications
 - 📜 [tomar](https://github.com/norayr/tomar) simple rss reader in pascal.
 - 🎨 [Chromatika - Image Colors Beautifier](https://github.com/chromatika/chromatika)
@@ -24,6 +25,9 @@
   - Uses [📩 UXMPP](https://github.com/norayr/uxmpp) - a patch of Devi's Pascal XMPP library with added methods, avatars, and Linux support.
 - ☀️ [SolarInfoBank Client](https://github.com/norayr/solarinfobank)
 - 🥥 [CoCo/R FreePascal adaptation](https://github.com/norayr/cocor_pascal)
+
+### 🖥️ Pascal other
+- 🎨 [OOP examples in different Pascal dialects](https://github.com/norayr/fpc-oop-example-modes)
 
 ### 🛠️ Oberon Tools
 - 🚇 [XOR VPN in Oberon](https://github.com/norayr/xoxovpn)
