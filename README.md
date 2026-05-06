@@ -17,6 +17,7 @@
 ### 🖥️ Pascal Maemo/Android/Desktop/cli Applications
 - 📜 [tomar](https://github.com/norayr/tomar) simple rss reader in pascal.
 - 🎨 [Chromatika - Image Colors Beautifier](https://github.com/chromatika/chromatika)
+- 🎨 [Chromatika - FreePascal version](https://codeberg.org/norayr/chromatika_fpc) for maemo-leste.
 - 🐌 [heliko](https://github.com/norayr/heliko) - unix shell helper, inspired of oberon and acme.
 - 📷 [Focal Length Calculator](https://github.com/norayr/focalLengthCalculator)
 - 🌞 [Photographic Light Meter](https://github.com/norayr/photolightmeter)
@@ -120,6 +121,7 @@
   - 📝 [Leafpad Hildon Application](https://github.com/norayr/leafpad)
   - ⚖️ [MaeFat - Weight Tracking App](https://github.com/norayr/maefat)
   - 🔢 [9x9 Sudoku](https://github.com/norayr/9x9-sudoku)
+  - 🚀 [thrust](https://github.com/norayr/thrust)
 
 ### 🎹 Keyboard Layouts
 - ⌨️ [Hildon Input Method Plugins](https://github.com/maemo-leste/hildon-input-method-plugins/commit/4a7c02fcc47af179a30f3923c9245bea417cad5f)
