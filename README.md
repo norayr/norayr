@@ -31,7 +31,8 @@
 
 ### 🛠️ Oberon Tools
 - 🚇 [XOR VPN in Oberon](https://github.com/norayr/xoxovpn)
-- ⌚ [watchcat](https://github.com/norayr/watchcat)
+- ⌚ [watchcat](https://github.com/norayr/watchcat) combines the best of watch and cat
+- 📛 [rename](https://github.com/norayr/rename) rename utility
 - 📜 [oarc](https://github.com/norayr/oarc) Oberon S3 .Arc files archiver.
 - 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
 - 🏷️ [Etiquette - Tool to Tag Files](https://github.com/norayr/etiquette)
