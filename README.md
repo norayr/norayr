@@ -6,6 +6,7 @@
 - 📌 [Vishap Oberon Compiler](https://github.com/vishapoberon/compiler)
 - 📦 [VIPack - Oberon Package Manager](https://github.com/vishapoberon/vipack)
 - 🌊 [Ulmo - Ulm's Oberon System revival](https://github.com/norayr/ulmo)
+- 🐙 [polpo](https://github.com/norayr/polpo) - minimal oberon system that is possible to build in cli. draws itself in x11, framebuffer or vt320 console (xterm with sixel support)
 - 🏚️ [Old Unmaintained Oberon-07 Compiler](https://github.com/norayr/o7c)
 
 - 🪾 Yggdrasil related
@@ -18,6 +19,7 @@
 - 📜 [tomar](https://github.com/norayr/tomar) simple rss reader in pascal.
 - 🎨 [Chromatika - Image Colors Beautifier](https://github.com/chromatika/chromatika)
 - 🎨 [Chromatika - FreePascal version](https://codeberg.org/norayr/chromatika_fpc) for maemo-leste.
+- 👹 [LUTifer](github.com/norayr/lutifer) commandline multithreaded HALD CLUT applier.
 - 🐌 [heliko](https://github.com/norayr/heliko) - unix shell helper, inspired of oberon and acme.
 - 📷 [Focal Length Calculator](https://github.com/norayr/focalLengthCalculator)
 - 🌞 [Photographic Light Meter](https://github.com/norayr/photolightmeter)
