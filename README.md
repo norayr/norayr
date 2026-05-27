@@ -112,8 +112,11 @@
 - 🌍 [English-Georgian Dictionary](https://github.com/norayr/english-georgian)
 - 🏛️ [Urartian to English Dictionary](https://github.com/norayr/urartian-english)
 
-### 🏗️ Maemo Packaging & Revivals
+### 🏗️ Maemo Packaging
 - 🌍 [Lagrange Gemini Browser](https://github.com/norayr/lagrange)
+- ⌚ [Amazfish](https://github.com/norayr/harbour-amazfish)
+
+### 🏗️ Maemo Revivals
 - 🔄 Revived programs for Maemo Fremantle, now working on Maemo Leste:
   - 📋 [EasyList](https://github.com/norayr/easylist)
   - 📖 [mStarDict](https://github.com/norayr/mstardict)
@@ -123,7 +126,10 @@
   - 📝 [Leafpad Hildon Application](https://github.com/norayr/leafpad)
   - ⚖️ [MaeFat - Weight Tracking App](https://github.com/norayr/maefat)
   - 🔢 [9x9 Sudoku](https://github.com/norayr/9x9-sudoku)
-  - 🚀 [thrust](https://github.com/norayr/thrust)
+
+### 🏗️ Other revivals
+  - 🚀 [thrust](https://github.com/norayr/thrust) - old X11 game.
+  - 👜 [tote commander](https://github.com/norayr/tote-commander) - revival of seksi commander, now called tote commander.
 
 ### 🎹 Keyboard Layouts
 - ⌨️ [Hildon Input Method Plugins](https://github.com/maemo-leste/hildon-input-method-plugins/commit/4a7c02fcc47af179a30f3923c9245bea417cad5f)
