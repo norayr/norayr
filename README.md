@@ -14,6 +14,7 @@
 - 👋 [Barev Pascal implementation](https://github.com/norayr/barev-pascal) Barev XMPP flavoured P2P protocol Pascal units and CLI program.
 - 👋 [Yggdrasil-Bonjour Bridge](https://github.com/norayr/ybb) - better to use barev instead of this.
 - 🏵️ [rn (reto nomo?) name server](https://github.com/norayr/rn) - for [v6.alt](https://modules.prosody.im/mod_s2s_v6mesh.html) domains.
+- 🦑 [paskalmaro](https://github.com/norayr/paskalmaro) - revival of the very old standard pascal dialect to c compiler.
 
 ### 🖥️ Pascal Maemo/Android/Desktop/cli Applications
 - 📜 [tomar](https://github.com/norayr/tomar) simple rss reader in pascal.
