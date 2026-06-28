@@ -131,6 +131,7 @@
 ### 🏗️ Other revivals
   - 🚀 [thrust](https://github.com/norayr/thrust) - old X11 game.
   - 👜 [tote commander](https://github.com/norayr/tote-commander) - revival of seksi commander, now called tote commander.
+  - 🎧 [sound studio](https://github.com/norayr/SoundStudio) - revival of SoundStudio.
 
 ### 🎹 Keyboard Layouts
 - ⌨️ [Hildon Input Method Plugins](https://github.com/maemo-leste/hildon-input-method-plugins/commit/4a7c02fcc47af179a30f3923c9245bea417cad5f)
