@@ -2,19 +2,20 @@
 
 ## 🔗 Some Spotlight Projects
 
-### 🏛️ Oberon Compiler & Package Manager
+### 🏛️ Compiler related
 - 📌 [Vishap Oberon Compiler](https://github.com/vishapoberon/compiler)
 - 📦 [VIPack - Oberon Package Manager](https://github.com/vishapoberon/vipack)
 - 🌊 [Ulmo - Ulm's Oberon System revival](https://github.com/norayr/ulmo)
 - 🐙 [polpo](https://github.com/norayr/polpo) - minimal oberon system that is possible to build in cli. draws itself in x11, framebuffer or vt320 console (xterm with sixel support)
+- 🍵 [oolng](https://codeberg.org/norayr/oolng) oolng oberon compiler - oo2c fork
 - 🏚️ [Old Unmaintained Oberon-07 Compiler](https://github.com/norayr/o7c)
+- 🦑 [paskalmaro](https://github.com/norayr/paskalmaro) - revival of the very old standard pascal dialect to c compiler.
 
 - 🪾 Yggdrasil related
 - 👋 [Barev purple plugin](https://github.com/norayr/barev-purple) Barev XMPP flavoured P2P protocol purple plugin.
 - 👋 [Barev Pascal implementation](https://github.com/norayr/barev-pascal) Barev XMPP flavoured P2P protocol Pascal units and CLI program.
 - 👋 [Yggdrasil-Bonjour Bridge](https://github.com/norayr/ybb) - better to use barev instead of this.
 - 🏵️ [rn (reto nomo?) name server](https://github.com/norayr/rn) - for [v6.alt](https://modules.prosody.im/mod_s2s_v6mesh.html) domains.
-- 🦑 [paskalmaro](https://github.com/norayr/paskalmaro) - revival of the very old standard pascal dialect to c compiler.
 
 ### 🖥️ Pascal Maemo/Android/Desktop/cli Applications
 - 📜 [tomar](https://github.com/norayr/tomar) simple rss reader in pascal.
