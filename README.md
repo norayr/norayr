@@ -8,8 +8,10 @@
 - 🌊 [Ulmo - Ulm's Oberon System revival](https://github.com/norayr/ulmo)
 - 🐙 [polpo](https://github.com/norayr/polpo) - minimal oberon system that is possible to build in cli. draws itself in x11, framebuffer or vt320 console (xterm with sixel support)
 - 🍵 [oolng](https://codeberg.org/norayr/oolng) oolng oberon compiler - oo2c fork
-- 🏚️ [Old Unmaintained Oberon-07 Compiler](https://github.com/norayr/o7c)
 - 🦑 [paskalmaro](https://github.com/norayr/paskalmaro) - revival of the very old standard pascal dialect to c compiler.
+- 🥥 [CoCo/R FreePascal adaptation](https://github.com/norayr/cocor_pascal)
+- 🥥 [CoCo/R voc adaptations](https://github.com/norayr/cocor_voc)
+- 🏚️ [Old Unmaintained Oberon-07 Compiler](https://github.com/norayr/o7c)
 
 ### 🪾 Yggdrasil related
 - 👋 [Barev purple plugin](https://github.com/norayr/barev-purple) Barev XMPP flavoured P2P protocol purple plugin.
@@ -29,7 +31,6 @@
 - 📡 [Meridian23](https://github.com/norayr/meridian23)
   - Uses [📩 UXMPP](https://github.com/norayr/uxmpp) - a patch of Devi's Pascal XMPP library with added methods, avatars, and Linux support.
 - ☀️ [SolarInfoBank Client](https://github.com/norayr/solarinfobank)
-- 🥥 [CoCo/R FreePascal adaptation](https://github.com/norayr/cocor_pascal)
 
 ### 🖥️ Pascal other
 - 🎨 [OOP examples in different Pascal dialects](https://github.com/norayr/fpc-oop-example-modes)
@@ -41,7 +42,6 @@
 - 📜 [oarc](https://github.com/norayr/oarc) Oberon S3 .Arc files archiver.
 - 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
 - 🏷️ [Etiquette - Tool to Tag Files](https://github.com/norayr/etiquette)
-- 🥥 [CoCo/R voc adaptations](https://github.com/norayr/cocor_voc)
 - 🐚 [Manush](https://github.com/illuria/manush) - secure menu shell for Illuria
 - 🚂 [Diaspora to Hugo](https://github.com/norayr/diaspora2hugo)
 - 🚄 [Socialhome to Hugo](https://github.com/norayr/socialhome2hugo)
