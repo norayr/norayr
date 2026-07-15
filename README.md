@@ -33,6 +33,7 @@
 - ☀️ [SolarInfoBank Client](https://github.com/norayr/solarinfobank)
 
 ### 🖥️ Pascal other
+- 📺 [WindowMaker dockapp in Pascal example](https://github.com/norayr/lazwmdock)
 - 🎨 [OOP examples in different Pascal dialects](https://github.com/norayr/fpc-oop-example-modes)
 
 ### 🛠️ Oberon Tools
