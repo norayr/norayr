@@ -7,7 +7,7 @@
 - 📦 [VIPack - Oberon Package Manager](https://github.com/vishapoberon/vipack)
 - 🌊 [Ulmo - Ulm's Oberon System revival](https://github.com/norayr/ulmo)
 - 🐙 [polpo](https://github.com/norayr/polpo) - minimal oberon system that is possible to build in cli. draws itself in x11, framebuffer or vt320 console (xterm with sixel support)
-- 🍵 [oolng](https://codeberg.org/norayr/oolng) oolng oberon compiler - oo2c fork
+- 🍵 [oolng](https://github.com/norayr/oolng) oolng oberon compiler - oo2c fork
 - 🦑 [paskalmaro](https://github.com/norayr/paskalmaro) - revival of the very old standard pascal dialect to c compiler.
 - 🥥 [CoCo/R FreePascal adaptation](https://github.com/norayr/cocor_pascal)
 - 🥥 [CoCo/R voc adaptations](https://github.com/norayr/cocor_voc)
@@ -134,6 +134,7 @@
   - 🚀 [thrust](https://github.com/norayr/thrust) - old X11 game.
   - 👜 [tote commander](https://github.com/norayr/tote-commander) - revival of seksi commander, now called tote commander.
   - 🎧 [sound studio](https://github.com/norayr/SoundStudio) - revival of SoundStudio.
+  - Ա [ArmVGA DOS fonts](https://github.com/norayr/armvga) - revival of Armenian font for MSDOS.
 
 ### 🎹 Keyboard Layouts
 - ⌨️ [Hildon Input Method Plugins](https://github.com/maemo-leste/hildon-input-method-plugins/commit/4a7c02fcc47af179a30f3923c9245bea417cad5f)
