@@ -52,6 +52,7 @@
 - 📖 [Converter for Baratian Dictionary](https://github.com/norayr/English-Armenian-Baratian-dictionary)
 
 ### 📚 Oberon Libraries
+- 🔒 [TLS Client written in Oberon](https://github.com/norayr/tls) (WIP)
 - 🏗️ [Program Arguments Library](https://github.com/norayr/opts)
 - 📝 [Bjorn Dijkstra strings](https://github.com/norayr/bdStrings)
 - 🔗 [Linked List and String List](https://github.com/norayr/lists)
