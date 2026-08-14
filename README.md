@@ -8,6 +8,7 @@
 - 🌊 [Ulmo - Ulm's Oberon System revival](https://github.com/norayr/ulmo)
 - 🐙 [polpo](https://github.com/norayr/polpo) - minimal oberon system that is possible to build in cli. draws itself in x11, framebuffer or vt320 console (xterm with sixel support)
 - 🍵 [oolng](https://github.com/norayr/oolng) oolng oberon compiler - oo2c fork
+  - 🦵 [votk](https://codeberg.org/votk/votk) visual oberon toolkit for oolng.
 - 🦑 [paskalmaro](https://github.com/norayr/paskalmaro) - revival of the very old standard pascal dialect to c compiler.
 - 🥥 [CoCo/R FreePascal adaptation](https://github.com/norayr/cocor_pascal)
 - 🥥 [CoCo/R voc adaptations](https://github.com/norayr/cocor_voc)
