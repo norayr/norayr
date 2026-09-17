@@ -44,6 +44,7 @@
 - 📜 [oarc](https://github.com/norayr/oarc) Oberon S3 .Arc files archiver.
 - 🤖 [IRC Bot](https://github.com/norayr/irc_bot)
 - 🏷️ [Etiquette - Tool to Tag Files](https://github.com/norayr/etiquette)
+- 🫶 [xmpp publishing](https://github.com/norayr/xmpp-publish) with oolng proof of concept.
 - 🐚 [Manush](https://github.com/illuria/manush) - secure menu shell for Illuria
 - 🚂 [Diaspora to Hugo](https://github.com/norayr/diaspora2hugo)
 - 🚄 [Socialhome to Hugo](https://github.com/norayr/socialhome2hugo)
