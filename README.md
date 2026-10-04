@@ -148,6 +148,8 @@
 
 ### 🏗️ Gentoo Overlay & Utilities
 - 🏗️ [Gentoo Overlay](https://github.com/norayr/norayr-overlay)
+- 🐧 [Gentoo tools](https://github.com/norayr/gnt): gnt-get, gntpkg, gntorphan, gntfsorphan.
+### Deprecated by gnt pascal tools above:
 - 📦 [epkg - DPKG-like Tool](https://github.com/norayr/epkg)
 - 🔄 [ept-get - APT-like Tool for Recursive Removal](https://github.com/norayr/ept-get)
 
