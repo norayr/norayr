@@ -38,6 +38,7 @@
 - 🎨 [OOP examples in different Pascal dialects](https://github.com/norayr/fpc-oop-example-modes)
 
 ### 🛠️ Oberon Tools
+- 🦜 [XMPP Publish](https://github.com/norayr/xmpp-publish/) - blogging on XMPP example for now.
 - 🚇 [XOR VPN in Oberon](https://github.com/norayr/xoxovpn)
 - ⌚ [watchcat](https://github.com/norayr/watchcat) combines the best of watch and cat
 - 📛 [rename](https://github.com/norayr/rename) rename utility
