@@ -38,6 +38,7 @@
 - 🎨 [OOP examples in different Pascal dialects](https://github.com/norayr/fpc-oop-example-modes)
 
 ### 🛠️ Oberon Tools
+- 🖴 [oberon-fuse](https://github.com/norayr/oberon-fuse/) - mount 4 types of Oberon filesystems.
 - 🦜 [XMPP Publish](https://github.com/norayr/xmpp-publish/) - blogging on XMPP example for now.
 - 🚇 [XOR VPN in Oberon](https://github.com/norayr/xoxovpn)
 - ⌚ [watchcat](https://github.com/norayr/watchcat) combines the best of watch and cat
