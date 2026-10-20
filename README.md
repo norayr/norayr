@@ -6,7 +6,7 @@
 - 📌 [Vishap Oberon Compiler](https://github.com/vishapoberon/compiler)
 - 📦 [VIPack - Oberon Package Manager](https://github.com/vishapoberon/vipack)
 - 🌊 [Ulmo - Ulm's Oberon System revival](https://github.com/norayr/ulmo)
-- 🐙 [polpo](https://github.com/norayr/polpo) - minimal oberon system that is possible to build in cli. draws itself in x11, framebuffer or vt320 console (xterm with sixel support)
+- 🐙 [polpo](https://github.com/polpo-system/polpo) - minimal oberon system that is possible to build in cli. draws itself in x11, framebuffer, KMS or vt320 console (xterm with sixel support). has package manager and many ports. possible to boot it without userspace linux tools.
 - 🍵 [oolng](https://github.com/norayr/oolng) oolng oberon compiler - oo2c fork
   - 🦵 [votk](https://codeberg.org/votk/votk) visual oberon toolkit for oolng.
 - 🦑 [paskalmaro](https://github.com/norayr/paskalmaro) - revival of the very old standard pascal dialect to c compiler.
