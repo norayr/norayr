@@ -16,6 +16,7 @@
 
 ### 🪾 Yggdrasil related
 - 👋 [Barev purple plugin](https://github.com/norayr/barev-purple) Barev XMPP flavoured P2P protocol purple plugin.
+- 👋 [Barev purple plugin in Oberon](https://github.com/norayr/barev-purple-oberon) Barev plugin that can be compiled with [VOC](https://github.com/vishapoberon/compiler).
 - 👋 [Barev Pascal implementation](https://github.com/norayr/barev-pascal) Barev XMPP flavoured P2P protocol Pascal units and CLI program.
 - 👋 [Yggdrasil-Bonjour Bridge](https://github.com/norayr/ybb) - better to use barev instead of this.
 - 🏵️ [rn (reto nomo?) name server](https://github.com/norayr/rn) - for [v6.alt](https://modules.prosody.im/mod_s2s_v6mesh.html) domains.
