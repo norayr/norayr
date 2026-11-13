@@ -152,8 +152,8 @@
 
 ### 🏗️ Gentoo Overlay & Utilities
 - 🏗️ [Gentoo Overlay](https://github.com/norayr/norayr-overlay)
-- 🐧 [Magenta: gentoo tools](https://github.com/norayr/magenta): gnt-get, gntpkg, gntorphan, gntfsorphan.
-### Deprecated by gnt pascal tools above:
+- 🐧 [Magnet gentoo tools](https://github.com/norayr/magenta): mgnt-attract, mgnt-repel, mgnt-get(legacy, use like apt-get), mgntpkg, mgnt-orphan, mgnt-fs-orphan.
+### Deprecated by magnet pascal tools above:
 - 📦 [epkg - DPKG-like Tool](https://github.com/norayr/epkg)
 - 🔄 [ept-get - APT-like Tool for Recursive Removal](https://github.com/norayr/ept-get)
 
